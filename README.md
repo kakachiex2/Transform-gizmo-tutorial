@@ -4,7 +4,9 @@
 
 Use this prompt with GPT-5, Claude, Gemini, DeepSeek, Qwen, Hermes, or any coding LLM.
 
-![](K:\B-Mesh-Modeling-System\Transform-3dGizmo\Transform-gizmo-tutorial\3D-Transform-widget_02.png)
+<div>
+<img src="3D-Transform-widget_02.png" alt="3D Transform Widget">
+</div>
 
 ---
 
