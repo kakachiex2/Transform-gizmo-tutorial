@@ -4,7 +4,7 @@
 
 Use this prompt with GPT-5, Claude, Gemini, DeepSeek, Qwen, Hermes, or any coding LLM.
 
-![](C:\Users\rafae\AppData\Roaming\marktext\images\2026-06-09-20-49-08-3D-Transform-widget_02.png)
+![](K:\B-Mesh-Modeling-System\Transform-3dGizmo\Transform-gizmo-tutorial\3D-Transform-widget_02.png)
 
 ---
 
